@@ -9,8 +9,8 @@ function App() {
   return (
     <div className="app-container">
     <div className="window">
-      <p>Window Height: {height}</p>
-      <p>Window Width: {width}</p>
+      <p>Window Height: {height}px</p>
+      <p>Window Width: {width}px</p>
     </div>
   
     <div className='data-loading'>
